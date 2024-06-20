@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    margin-top: 50px;
+  }
+  
+  .img-fluid {
+    max-width: 200px;
+    
+  }
+  .my-name {
+    font-family: 'Georgia', serif; /* Old-style font */
+    font-size: 48px; /* Bigger font size */
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  .university-name{
+    font-size:large;
+    font-weight: bold;;
+  }
+  .dates{
+    font-size: normal;
+    margin-left: 10px;
+  }
